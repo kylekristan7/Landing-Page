@@ -54,7 +54,7 @@ header {
 .hero {
   height: 90vh;
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-              url('intenal storage/Pictures/Message/recieved_1189040762544295.jpeg') no-repeat center center/cover;
+              url('lumnaire.jpeg') no-repeat center center/cover;
   display: flex;
   align-items: center;
   justify-content: center;
